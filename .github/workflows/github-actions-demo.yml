@@ -1,4 +1,5 @@
 name: Maven Settings Playground
+on: [push]
 jobs:
   check-mvn-settings:
     runs-on: windows-latest
